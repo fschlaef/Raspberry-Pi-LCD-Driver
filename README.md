@@ -1,2 +1,2 @@
 # raspi-lcd
-Raspberry Pi Touchscreen Display Driver
+Moved to https://github.com/fschlaef/raspi_lcd
